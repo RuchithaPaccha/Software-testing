@@ -1,4 +1,3 @@
-# Software-testing
 # 🧪 Software Testing Project – CGI Visa Scheduling Application
 
 This is a comprehensive software testing project for the **CGI Visa Scheduling Application**, a globally-used web-based platform for managing visa appointment scheduling. The project includes manual and automated testing across various techniques such as boundary value analysis, equivalence partitioning, exploratory, and unit testing.
